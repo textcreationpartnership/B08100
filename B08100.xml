@@ -1,0 +1,1019 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brefe apologye or answere to a certen craftye cloynar, or popyshe parasyte, called Thomas smythe [sic].</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1540</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08100</idno>
+            <idno type="OCLC"> 82475322</idno>
+            <idno type="STC">STC 22880.7</idno>
+            <idno type="STC">ESTC S125979</idno>
+            <idno type="EEBO-CITATION">82475322</idno>
+            <idno type="OCLC">ocm 82475322</idno>
+            <idno type="VID">185170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185170)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2255:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brefe apologye or answere to a certen craftye cloynar, or popyshe parasyte, called Thomas smythe [sic].</title>
+               </titleStmt>
+               <extent>[12+] p.   </extent>
+               <publicationStmt>
+                  <publisher>M. Crom,</publisher>
+                  <pubPlace>[Antwerp :</pubPlace>
+                  <date>1540].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from STC (2nd ed.).</note>
+                  <note>Imperfect: lacking all after B₂.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smythe, Thomas, --  clerk of the queen's council.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1509-1547 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185170:1"/>
+            <pb facs="tcp:185170:1" rendition="simple:additions"/>
+            <head>A brefe apologye or anſwere to a certen craftye cloynar, or popyſhe paraſyte, called Thomas ſmy<g ref="char:cmbAbbrStroke">̄</g>the.</head>
+            <q>
+               <p>¶ Beholde the diſceytfull penne of the ſcrybe, hath ſet forthe lyes.</p>
+               <bibl> Hieremie. 8.</bibl>
+            </q>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Er, though ye be a ſmythe<note place="margin">Eſaie. 9.</note>
+               </l>
+               <l>And beate vppon the ſtythe</l>
+               <l>ye cum nat to the pythe</l>
+               <l>Nor haue not yet wher wythe</l>
+            </lg>
+            <lg>
+               <l>your ſpyryt is verye drye</l>
+               <l>The ſcripturs to applye<note place="margin">Ezec. 13.</note>
+               </l>
+               <l>ye rather them denye</l>
+               <l>Than ther trewthe fortyfye</l>
+            </lg>
+            <lg>
+               <l>Vvbat meaſur ye obſerue</l>
+               <l>In poeſye proterue<note place="margin">Eccl. 19.</note>
+               </l>
+               <l>Axe of ladye mynerue</l>
+               <l>And ſhe wyll ſaye ye ſwerue</l>
+            </lg>
+            <lg>
+               <l>Full flatterynglye ye foyne</l>
+               <l>ye clatter and ye cloyne<note place="margin">prou. 10</note>
+               </l>
+               <l>ye mangye matters ioyne</l>
+               <l>And all to catche the coyne</l>
+            </lg>
+            <lg>
+               <l>ye cobble and ye clowght</l>
+               <l>To vpholde the romyſhe rowght</l>
+               <l>But ye maye haue the gowght<note place="margin">Hie. 50.</note>
+               </l>
+               <l>Ere ye brynge that abowght</l>
+            </lg>
+            <lg>
+               <l>ye maynteyne ſodomytes</l>
+               <l>with other hypocrytes</l>
+               <l>And playe the paraſytes<note place="margin">Abac. 2</note>
+               </l>
+               <l>To ſlee trewe iſraelytes</l>
+            </lg>
+            <pb facs="tcp:185170:2"/>
+            <lg>
+               <l>Agaynſt aftrawe ye ſtumble</l>
+               <l>And at a blocke ye fumble</l>
+               <l>Ye fare lyke hym that tumble</l>
+               <l>For nought ye do but bumble.<note place="margin">Math. 7</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Soche one ye are ywys</l>
+               <l>As popyſhe preſtes maye blys</l>
+               <l>For wher all treaſon ys</l>
+               <l>Ye fynde nothynge amys.<note place="margin">Eſal. 56,</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Your hate ye can not hyde</l>
+               <l>Nor yet your popyſhe pryde<note place="margin">Luc. 21.</note>
+               </l>
+               <l>God wyll for hysprouyde</l>
+               <l>Whan ye ſhall ſtande aſyde</l>
+            </lg>
+            <lg>
+               <l>Whyls you ſuppreſſe the ryght</l>
+               <l>Here wanderynge in the nyght<note place="margin">Ioh. 12.</note>
+               </l>
+               <l>Ye thynke God hath no ſyght</l>
+               <l>Which is the very lyght</l>
+            </lg>
+            <lg>
+               <l>The lorde wyll once out ſpewe</l>
+               <l>Soche hypocrytes vntrewe</l>
+               <l>As byddethhys worde adewe</l>
+               <l>Pylde poperye to renewe.<note place="margin">Apoc. 3</note>
+               </l>
+            </lg>
+            <lg>
+               <l>For curſed is that hart</l>
+               <l>And worthye to haue ſmart<note place="margin">Hie. 48.</note>
+               </l>
+               <l>Whych wyll with them take part</l>
+               <l>That ſcripture doth peruart</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>To trolle awaye or trolle in / let not trolle ſpare</hi>
+                  </l>
+                  <l>
+                     <hi>Yf trolle trewlye trolle / trolle nedeth not to care</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Trolle in hath trolled trewlye, wher trolle awaye trolled amys</l>
+               <l>Yf ye wyll trolle with trollars,<note place="margin">Oſee. 5.</note> trolle trewlyar after thys</l>
+               <l>Full lyke a troblous trollar, ye trolle a tryfelynge trace</l>
+               <l>Trolle nomore with the ſcripturs, except ye haue better grace</l>
+            </lg>
+            <pb facs="tcp:185170:2"/>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe. ☞ A lyttle treatyſe agaynſt ſedicions perſones.</bibl>
+                  </head>
+                  <l>
+                     <hi>OF late I peruſed / two purpoſes ſeuerall</hi>
+                  </l>
+                  <l>
+                     <hi>In thee kyndes craftlye handled / the treuthe for to tell</hi>
+                  </l>
+                  <l>
+                     <hi>Trolle awaye / and trolle in, menne do them call</hi>
+                  </l>
+                  <l>
+                     <hi>Treatynge vpon matter / concernynge the late Cromwell</hi>
+                  </l>
+                  <l>
+                     <hi>The one vtterlye myndynge / the other to repell</hi>
+                  </l>
+                  <l>
+                     <hi>Trolle awaye (the treuthe is) moche touched the quycke</hi>
+                  </l>
+                  <l>
+                     <hi>And trolle in (ſom what galled) be ganne for to kycke</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>
+                  <hi>¶</hi> An anſwere to the bolſterar of ſedicion.</head>
+               <l>In your peruſinge, ye ſeme very parciall</l>
+               <l>Trolle awaye iugynge,<note place="margin">Gene. 8.</note> of treuth to haue the trycke</l>
+               <l>Concernynge Cromwell, trolle in nothyng at all</l>
+               <l>But for hystrollynge, to be an heretycke</l>
+               <l>Trollynge betwixt them,<note place="margin">Rom. 7.</note> ye are a iuge to quycke</l>
+               <l>The worſe to allowe, the better to condempne</l>
+               <l>Soche vntrewe trollars, all veryte contempne.</l>
+            </lg>
+            <lg>
+               <l>Whan Criſt was alyue,<note place="margin">Ioha<g ref="char:cmbAbbrStroke">̄</g>. 5.</note> ſoche tr yfelinge trollars trolled</l>
+               <l>Callynge hym traytour, and herety cke alſo</l>
+               <l>Whome for ther trollynge, the phary ſees extolled</l>
+               <l>As yet to thys daye, ther trewe ſucceſſours do</l>
+               <l>Dyd notſoche trollars, agaynſt the apoſtles go?<note place="margin">Act. 4.</note>
+               </l>
+               <l>What ther rewarde is, we nede not for to tell</l>
+               <l>Trollynges trouthe troblynge, trolleth euermore to hell.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Yet trolle awaye tolde trouthe / yt can not be denyed</hi>
+                  </l>
+                  <l>
+                     <hi>Declarynge the offences / wherin Cromwell offended</hi>
+                  </l>
+                  <l>
+                     <hi>Trolle in beynge trobled / whan he yt eſpyed</hi>
+                  </l>
+                  <l>
+                     <hi>With trollynges to couer it, ſubtyllye contended</hi>
+                  </l>
+                  <l>
+                     <hi>Some trollats ther be / I wolde were amended</hi>
+                  </l>
+                  <l>
+                     <hi>For who that craftelye coloureth / any others offence</hi>
+                  </l>
+                  <l>
+                     <hi>Of lykely hode in hys owne hart / hath the ſame pretence.</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Trolle awaye ded lye,<note place="margin">Pro. 12.</note> in manye thynges he tolde</l>
+               <l>Though the lorde Cromwell, hath dyed for hys offence</l>
+               <l>So ſone as trolle in, ſoche trollynges ded beholde</l>
+               <l>He ſhewed hym of it,<note place="margin">Gala. 6.</note> with moche more grace and ſcyence</l>
+               <pb facs="tcp:185170:3"/>
+               <l>Betwyne them yetrolle,<note place="margin">Gala. 6.</note> without indifference</l>
+               <l>your verdyt is nought, your iugement is wurſe</l>
+               <l>Soche vntrewe trollars, are vnderneth goddes curſe</l>
+            </lg>
+            <lg>
+               <l>No wreche ſo wycked,<note place="margin">Ro. 10.</note> but ſome <hi>wyll</hi> take hys part</l>
+               <l>None ſo vnlerned, but ſome ſhall hym vpholde</l>
+               <l>As menne ſe profyght, ſo trolle they in ther hart</l>
+               <l>Some that hath knowlege, are neyther hote norcolde</l>
+               <l>And verye aſſe heades,<note place="margin">Apoc. 3</note> auctoryte maketh bolde</l>
+               <l>He that with the fote, ſo cruell partes <hi>wyll</hi> playe</l>
+               <l>The head <hi>wyll</hi> not ſpare, he once out of the <hi>waye.</hi>
+               </l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Trewlye to trolle, it is no maner of ſhame</hi>
+                  </l>
+                  <l>
+                     <hi>And trollynge vntrewe / is nat to be mayntayned</hi>
+                  </l>
+                  <l>
+                     <hi>As euerye thynge is / ſo to geue it proppre name</hi>
+                  </l>
+                  <l>
+                     <hi>Amonges all trewe honeſt men / ſhuld nat be dyſdayned</hi>
+                  </l>
+                  <l>
+                     <hi>The ſcripture ſo teacheth vs / it can not be fayned</hi>
+                  </l>
+                  <l>
+                     <hi>Agaynſt ſcripture who ſtryueth / he is non other lyke</hi>
+                  </l>
+                  <l>
+                     <hi>Than a traytour to hys prynce / and to God an heretyke</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.<note place="margin">Ve qui dicitis bonum malum &amp; malu<g ref="char:cmbAbbrStroke">̄</g> bonum Eſa. v. Eph. 4.</note>
+               </head>
+               <l>If trewlye to trolle, ſtande with moche honeſte</l>
+               <l>And trollynge vntrewe, requyreth rebuke and ſhame</l>
+               <l>I gretlye maruele, whyls you a trollar be</l>
+               <l>That in your trollynge, <hi>ye wyll</hi> trewe trollars blame</l>
+               <l>And for your purpoſe,<note place="margin">Eccl. 3.</note> trolle ſcripturs out offrame</l>
+               <l>Soche trecherous trollars, I thynke to be no leſſe</l>
+               <l>Than thoſe lewde perſons, whome <hi>ye</hi> do here expreſſe</l>
+            </lg>
+            <lg>
+               <l>your ſcripture <hi>ye</hi> trolle,<note place="margin">Eſai. 5.</note> from Eſaye the <hi>fyft</hi>
+               </l>
+               <l>Ther ſpoken for them, that doth goddes worde blaſpheme</l>
+               <l>But <hi>ye</hi> can make it, to ſerue an other dryft</l>
+               <l>Than God that tyme ſhewed,<note place="margin">Mat. 16.</note> or Eſaye coude eſteme</l>
+               <l>Soche trollynge of trouthe, cauſe yet ſome men to deme</l>
+               <l>The byſſ hop of Rome, the chefe head of the churche</l>
+               <l>Scripturs ſo trolled, <hi>lyke</hi> myſter yes canne wurche.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>I intende not to trolle, to rake anye part</hi>
+                  </l>
+                  <l>
+                     <hi>Diuiſion to mcreace, it nedeth nothynge</hi>
+                  </l>
+                  <l>
+                     <hi>But ſorowfullye ſyghynge / I trolle in my hart</hi>
+                  </l>
+                  <l>
+                     <hi>With my ſelf in mynde / manye tymes reuoluynge</hi>
+                  </l>
+                  <l>
+                     <hi>How God to vs hath ordayned / the moſt noble kynge</hi>
+                  </l>
+                  <pb facs="tcp:185170:3"/>
+                  <l>
+                     <hi>Who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> connyt vs / hath trauayled full fore</hi>
+                  </l>
+                  <l>
+                     <hi>yet manye teyfelynge trollars / care lyttele therfore.</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>A blacke more <hi>wyll</hi> change,<note place="margin">Hier. 13.</note> the colour of hys ſkynne</l>
+               <l>As ſone as hys craft, an hypocryte ſhall hyde</l>
+               <l>
+                  <hi>ye</hi> trolle with no part, dyuyſion to begynne</l>
+               <l>And yet the people, from Criſt <hi>ye</hi> wold dyuyde</l>
+               <l>Some trollars lament,<note place="margin">Ioan. 11.</note> the fallynge of ther pryde</l>
+               <l>Chriſten kynges hauynge, ſoche trollars at ther hande</l>
+               <l>Are in worſe takynge, than they do vnderſtande</l>
+            </lg>
+            <lg>
+               <l>Vvho maketh dyuiſion?<note place="margin">Ioan. 7.</note> who is the peace breakar?</l>
+               <l>Nat Iudas but Chriſt, yet Iudas doth betraye!</l>
+               <l>Paule worketh ſedicion, and is no treaſon ſpeakar</l>
+               <l>
+                  <hi>ye</hi> do the myſchefe,<note place="margin">Act. 14.</note> and yet <hi>ye</hi> make no fraye</l>
+               <l>The ſame foxe that lurketh, the ſame foxe take the praye</l>
+               <l>Oh trollynge gnato,<note place="margin">Pro. 11.</note> 
+                  <hi>ye</hi> thynke <hi>ye</hi> be not ſeaue</l>
+               <l>yet by your trollynges, perceyue men what <hi>ye</hi> meane.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>But as trollars troblous / and full of enuye</hi>
+                  </l>
+                  <l>
+                     <hi>At the lawes of God, and of our good kynge</hi>
+                  </l>
+                  <l>
+                     <hi>In ther trollynges do truſt, that ther olde hereſye</hi>
+                  </l>
+                  <l>
+                     <hi>All good orders ſet a part / ſhall flory ſhe and ſprynge</hi>
+                  </l>
+                  <l>
+                     <hi>Ther prechars no leſſe comfort / in ther ſermons do brynge</hi>
+                  </l>
+                  <l>
+                     <hi>Euen latelye exhortinge them, auoydinge all drede</hi>
+                  </l>
+                  <l>
+                     <hi>And, perſecucion not regardynge / throughlye to procede.</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Here is a pretence,<note place="margin">Math. 4</note> to turne ſtones into breade</l>
+               <l>And a ſuggeſtion, to caſt our ſelues downe bacwarde</l>
+               <l>Vpon the mountayne, for golde <hi>ye</hi> trolle vs leade</l>
+               <l>Lawes with good order, <hi>ye</hi> wolde vs to regarde</l>
+               <l>And yet trewe prechars,<note place="margin">Nu. 4.</note> 
+                  <hi>ye</hi> mynde nat to be harde</l>
+               <l>Falſe fables <hi>ye</hi> forge, to darken with ther name</l>
+               <l>Trollynge in ſoche traſhe, as <hi>wyll</hi> be to your ſhame</l>
+            </lg>
+            <lg>
+               <l>The ſcrybe on hys ſkyrtes,<note place="margin">Mat. 23</note> doth goddes commaundementes ſet</l>
+               <l>The dcuyll reſembleth, the maſſenger of lyght</l>
+               <l>Who deſtroyeth lawes? who doth good order let?</l>
+               <l>But thoſe pharyſees, that chryſten peple ſpyght</l>
+               <l>Sendynge ſoche prophetes,<note place="margin">Hie. 23.</note> as the daye change to the nyght</l>
+               <pb facs="tcp:185170:4"/>
+               <l>All them that abhorre, ther olde pylde popetrye</l>
+               <l>For the worde of God, they accuſe of hereſye.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Wyth manye wordes more troblous / than now I wyl reherce</hi>
+                  </l>
+                  <l>
+                     <hi>Not doubtynge at all / but at length they ſhall be knowne</hi>
+                  </l>
+                  <l>
+                     <hi>Soche trollynge trecherous, my hart doth ſore perce</hi>
+                  </l>
+                  <l>
+                     <hi>Conſyderynge how ſedycyouſlye / amonge vs they be ſowne</hi>
+                  </l>
+                  <l>
+                     <hi>Of late I well truſted, they hath bene ouerblowne</hi>
+                  </l>
+                  <l>
+                     <hi>But now I wyll perceyue / that neyther fauer nor ſmart,</hi>
+                  </l>
+                  <l>
+                     <hi>From the bodye can expell / that is roted in the hart</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>More woldeye trolle out,<note place="margin">Ioan. 7.</note> yfye coude more reherce</l>
+               <l>Ye ſhall do nomore, than God ſhall you permyt</l>
+               <l>Whych trolleth forth tyrauntes, both terryble and ferce</l>
+               <l>Hys flocke to correct,<note place="margin">Iob. 23.</note> whan they trolle out of wyt</l>
+               <l>Amonge ſoche trollars, ye are a trollar fyt</l>
+               <l>And I can ye thanke, ye do full well your kynde</l>
+               <l>Trollynge now ſoche hate, as laye longe in your mynde.</l>
+            </lg>
+            <lg>
+               <l>All ys ſedicyon,<note place="margin">Ioan. 21.</note> that pleaſe not popyſhe hartes</l>
+               <l>All inſurreccyon, whan menne from you declyne</l>
+               <l>Of your ſort manye, hath trolled trayterous partes</l>
+               <l>And yet agaynſt them, no trollynges ye dyffyne</l>
+               <l>One relygyous zele,<note place="margin">Act. 23.</note> doth you and them combyne</l>
+               <l>All heretyckes frelye, ye maye touche in your ſpyght</l>
+               <l>But none ſoche as dyed, for holye churches rycht.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>A trewe trollynge hart / wold be lothe to pretende</hi>
+                  </l>
+                  <l>
+                     <hi>Anye purpoſe to mayntayne / agaynſt God or hye kynge</hi>
+                  </l>
+                  <l>
+                     <hi>The confeſſyon of an heretyck / that latelye ded offende</hi>
+                  </l>
+                  <l>
+                     <hi>And amonges others / ſuffred for hys deſeruynge</hi>
+                  </l>
+                  <l>
+                     <hi>Seſecrettelye they embrace / as moſt precyous thynge</hi>
+                  </l>
+                  <l>
+                     <hi>And yet playnelye wyll I proue / by good lawe and reaſon</hi>
+                  </l>
+                  <l>
+                     <hi>Contayned therin / bothe he reſye and treaſon.</hi>
+                     <note place="margin">Eſai. 23</note>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>A trewe trollynge hart, dwelleth not wythin your boſome</l>
+               <l>For all the colours that you ſhewe outwardelye</l>
+               <l>In the confeſſyon, whych came an heretycke frome</l>
+               <l>Ys moche lefle treaſon,<note place="margin">1. Tim. 4</note> and moche leſſe hereſye</l>
+               <l>Than in the trollynges, of your hypocreſye</l>
+               <l>Whyls you ſhall contende, wyth reaſon and with lawe</l>
+               <pb facs="tcp:185170:4"/>
+               <l>Your trolled ſcripturs, proue you a dottynge dawe.</l>
+            </lg>
+            <lg>
+               <l>The heretycke that dyed, as all the peple harde</l>
+               <l>In the fayth of Chriſt,<note place="margin">Sapi. 5.</note> mekelye departed hence</l>
+               <l>Praynge for our kynge, and our worthye prince Edwarde</l>
+               <l>Longe dayes to endure, inther prehemynence</l>
+               <l>In hys confeſſion, I fynde none other offence.<note place="margin">1. Tim. 2</note>
+               </l>
+               <l>But as Chriſt doth ſaye, ſoch ſlayghtes are in the ſectes</l>
+               <l>As wolde in maner, deceyue the verye electes.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>In anye wyfe imprynted / they wyll nat yt ſhall be</hi>
+                  </l>
+                  <l>
+                     <hi>The dauugers therof / in themſelues myſtruſtynge</hi>
+                  </l>
+                  <l>
+                     <hi>Wherfor euer ye manne / maye well pexceyue and ſe</hi>
+                  </l>
+                  <l>
+                     <hi>What hartes they do beare / to God and our good kynge</hi>
+                  </l>
+                  <l>
+                     <hi>Euerye of them ſecretlye / muſt haue yt in wrytynge</hi>
+                  </l>
+                  <l>
+                     <hi>But Chriſt fayth verelye / ther is nothynge conceled</hi>
+                  </l>
+                  <l>
+                     <hi>But at length ſhall be knowen / and openlye reueled.</hi>
+                     <note place="margin">Nihil opertu<g ref="char:cmbAbbrStroke">̄</g> ꝙ non reuele tur. Mat. 10</note>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>It is imprynted, wherfore by lawe and reaſon</l>
+               <l>Proue I can ryght well,<note place="margin">Eccl. 7.</note> that ye alyar be</l>
+               <l>Verye hote ye are, in iu gynge menne of treaſon</l>
+               <l>The hydden ſecretes, of all mennes hartes ye ſe</l>
+               <l>As ye iuge ye are, by holy ſaint Paules decre</l>
+               <l>Soche tauntynge trollars,<note place="margin">Rom. 2.</note> are tetrici thraſones</l>
+               <l>And in ther trollynges, full nought ye nebulones</l>
+            </lg>
+            <lg>
+               <l>A ſcripture ye trolle, as dyd the deuyllin deſert</l>
+               <l>To ſerue your purpofe,<note place="margin">Math. 4</note> trollynge the pythe aſyde</l>
+               <l>Hydde ſecretes ſayth Criſt, ſhall now be clere and apert</l>
+               <l>Meanynge ſoche ſcripturs,<note place="margin">Luc. 12.</note> as the pharyſees ded hyde</l>
+               <l>With ther tradicions, hypocreſye and pryde</l>
+               <l>Thus Chriſt declareth it, in the. xij. chapter of Luke</l>
+               <l>Falſe trollynge of textes, wyll turne ye to rebuke.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Who agaynſt them trolleth / a papyſt they hym name</hi>
+                  </l>
+                  <l>
+                     <hi>They haue none other thynge, them ſelues for to defren de</hi>
+                  </l>
+                  <l>
+                     <hi>I wolde that all papyſtes / had an open ſhame</hi>
+                  </l>
+                  <l>
+                     <hi>And that all heretyckes / themſelues wolde a mende</hi>
+                  </l>
+                  <l>
+                     <hi>Than ſhuld we haue no cauſe / further to contende</hi>
+                  </l>
+                  <l>
+                     <hi>But vniformelye to lyue / to one with the other</hi>
+                  </l>
+                  <l>
+                     <hi>And ioy fullye to in habite / as brother wyth brother.</hi>
+                     <note place="margin">Ecce <expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> bo num &amp; <expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> 10 cundu<g ref="char:cmbAbbrStroke">̄</g>, Pſa. 132</note>
+                  </l>
+               </lg>
+            </q>
+            <pb facs="tcp:185170:5"/>
+            <lg>
+               <head>An anſwere.</head>
+               <l>
+                  <hi>We</hi> call them papiſtes,<note place="margin">Iudae. i.</note> that maintayne papiſtrye</l>
+               <l>Both hauynge ther frutes; and ſcripture for vs to laye</l>
+               <l>If all ſoche papyſtes, ſchuld haue ſhame openlye</l>
+               <l>I thynke ye coude not, befarre out of the waye</l>
+               <l>As Iudas wyth Chriſt,<note place="margin">Pſ. 27.</note> with heretyckes here ye playe</l>
+               <l>No brother is he, that goddes wurde doth nat furder</l>
+               <l>Except he be Cain, whych doth pore Abel murder.</l>
+            </lg>
+            <lg>
+               <l>Styll <hi>ye</hi> trolle ſcripturs,<note place="margin">2. cor. 6</note> but nothynge in ther kynde</l>
+               <l>Couetinge full ſore, to haue a fleſ helye concorde</l>
+               <l>Beliall and Chriſt, wer neuer of one mynde</l>
+               <l>Dauid commended,<note place="margin">Pſ. 132.</note> a vnite in the Lorde</l>
+               <l>Which with your peltrye wylleth vs not to accorde</l>
+               <l>For lyght with darkenes, ſchall neuer well agre</l>
+               <l>Nor popyſhe falſehede, with Chriſtis veryte.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Soche ſchuld be our trollynges / Chriſt vs ſo tracheth</hi>
+                     <note place="margin">Deꝰ cha<g ref="char:EOLunhyphen"/>ritas eſt qui ma<g ref="char:EOLhyphen"/>net in charita<g ref="char:EOLhyphen"/>te. 1. Ioa<g ref="char:cmbAbbrStroke">̄</g>. 4.</note>
+                  </l>
+                  <l>
+                     <hi>Commandinge euer peace / amonge vs for to be</hi>
+                  </l>
+                  <l>
+                     <hi>Hntrewlye he trolleth / that otherwyſe preacheth</hi>
+                  </l>
+                  <l>
+                     <hi>Sturrynge to anye ſedicyon, malyce or enmyte</hi>
+                  </l>
+                  <l>
+                     <hi>Where bannyſhed vs dyſcorde / and raygneth all charyte</hi>
+                  </l>
+                  <l>
+                     <hi>That realme in God reſteth / and God ys in yt</hi>
+                  </l>
+                  <l>
+                     <hi>Beinge charyte him ſelf / as ſayth the holye wryt</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Chriſt neuer trolled,<note place="margin">Eſa. 57.</note> ſoche peace as <hi>ye</hi> wolde haue</l>
+               <l>Neyther in Mathew, in Luke, nor <hi>yet</hi> in Iohan</l>
+               <l>Thowgh in your trollynges, <hi>ye</hi> falſel <hi>ye</hi> them depraue</l>
+               <l>Of olde cankred ſcribes, the armoure <hi>ye</hi> do on</l>
+               <l>Nat Barrabas but Chriſt,<note place="margin">Ioa<g ref="char:cmbAbbrStroke">̄</g>. 18,</note> accuſynge of ſedicyon</l>
+               <l>To the worlde ſayth Chriſt, I ſende no peace but the ſworde</l>
+               <l>By the which ys ment, the rygour of goddes worde.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>ye</hi> trolle forth your textes,<note place="margin">Mat. 7.</note> commixtynge perles with draffe</l>
+               <l>For Chriſt ſayd in dede, they ſhuld be troden of ſwyne</l>
+               <l>Non eſt pax impijs, your charyte ys but chaffe</l>
+               <l>Though <hi>ye</hi> crye pax pax, as Eſaye doth dyffyne</l>
+               <l>
+                  <hi>ye</hi> ſpeke of charyte,<note place="margin">Ioan. 16.</note> and drawe by an other lyne</l>
+               <l>Chriſt ſayd, that with you, <hi>we</hi> ſhuld haue trybulacyon</l>
+               <l>And in him alone, our peace and conſolacyon.</l>
+            </lg>
+            <pb facs="tcp:185170:5"/>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Than towardes that charyte / trolle we on apace</hi>
+                     <note place="margin">Venite ad me omnes qui la<g ref="char:EOLhyphen"/>boratis &amp;. Math. 15</note>
+                  </l>
+                  <l>
+                     <hi>Auauncynge our ſelues / with all conuenyent ſpede</hi>
+                  </l>
+                  <l>
+                     <hi>A more accept able pilgrymage / ſurelye neuer was</hi>
+                  </l>
+                  <l>
+                     <hi>For whych God gaue to man, anye meryte or mede</hi>
+                  </l>
+                  <l>
+                     <hi>Our labour or great burden / let vs nothynge drede</hi>
+                  </l>
+                  <l>
+                     <hi>Nor regarde the wylfulnes / of our bodye or fleſhe</hi>
+                  </l>
+                  <l>
+                     <hi>For at the iournayes ende / Chriſt wyll vs refreſhe</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>If <hi>ye</hi> trolle to Chriſt, as <hi>ye</hi> mynde nothynge leſſe</l>
+               <l>With the phariſe,<note place="margin">Luc. 18</note> 
+                  <hi>ye</hi> maye not your ſelf auaunce</l>
+               <l>For mede or meryte, as <hi>ye</hi> do here expreſſe</l>
+               <l>For non can deſerue,<note place="margin">Rom. 11</note> the heuyns in herytaunce</l>
+               <l>But here men maye ſe, your trollynge ignoraunce</l>
+               <l>The frutes of our fleſche, ye myll vs not to regarde</l>
+               <l>So trollynge vs Chriſt, full lyke a wanton ſtewarde.</l>
+            </lg>
+            <lg>
+               <l>Than trolle ye ſcripture,<note place="margin">Math. 11</note> that Chriſt wyll you refreſbe</l>
+               <l>At your iournayes ende, for your gret labour, and peyne</l>
+               <l>Chriſt ther taketh the lawe, for the burden of ourfleſhe</l>
+               <l>Eaſynge our conſcyence, of mennys tradicyons pleyne</l>
+               <l>But in your trollyn ge, ye haue an other veyne</l>
+               <l>In your cottacyon,<note place="margin">Deu. 13.</note> for the aleuynt of Mathewe</l>
+               <l>ye trolle the fyſtent, to be knowne a trollar trewe.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd than as trewe trollars / togyther let vs remayne</hi>
+                     <note place="margin">omnis anima poteſta tibusſu<g ref="char:EOLhyphen"/>blimio<g ref="char:EOLhyphen"/>ribꝰ ſub. Ro. 13.</note>
+                  </l>
+                  <l>
+                     <hi>Perfyghtlye faſt knyt / in one peace / vnyte and loue</hi>
+                  </l>
+                  <l>
+                     <hi>Wyth glorie vnto God / euerm ore gladde and fayne</hi>
+                  </l>
+                  <l>
+                     <hi>Our noble prynce trewlye / to ſerue as doth vs behoue</hi>
+                  </l>
+                  <l>
+                     <hi>And all others to tendre / as dewtye doth vs moue</hi>
+                  </l>
+                  <l>
+                     <hi>Bſynge ſtyll amonge vs the ſelf ſame loue and concorde</hi>
+                  </l>
+                  <l>
+                     <hi>Whych ys to vs commaunded / by Chriſt the eternall lorde</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Thys trollynge wer good,<note place="margin">1. Pe. 2.</note> yfye coude folowe yt</l>
+               <l>And nomore couete, to haue them ouerblowne</l>
+               <l>That fauer godde strewthe, as they ſuppoſe moſt fyt</l>
+               <l>Of Chriſten peple, in thys lyfe to beknowne</l>
+               <l>Reportynge by ſoche,<note place="margin">Hier. 9.</note> ſedycyon to be ſowne</l>
+               <l>ye neyther trolle peace, nor a chriſten amyte</l>
+               <l>But declare your ſelf, an ympe of inyquyte.</l>
+               <pb facs="tcp:185170:6"/>
+               <l>
+                  <hi>We</hi> muſt loue in Chriſt,<note place="margin">Ioh. 15.</note> yf we loue chriſtenlye</l>
+               <l>For loue out of Chriſt, is but a paganes loue</l>
+               <l>In goddes worde therfore, let vs loue to hys glorye</l>
+               <l>And obeye our kynge,<note place="margin">Rom. 13</note> as chriſten menne behoue</l>
+               <l>With mekenes of hart and no ſedicion moue</l>
+               <l>And than ſhall we trolle, in peaceable vnyte</l>
+               <l>As God vs wylleth, by hys heuenlye veryte.</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>And now in that loue / let vs all with one voyce praye</hi>
+                  </l>
+                  <l>
+                     <hi>For the preſeruacyon / of henry our moſte noble kynge</hi>
+                  </l>
+                  <l>
+                     <hi>And Kateryne our quene / that they togyther maye</hi>
+                  </l>
+                  <l>
+                     <hi>Proſperouſlye contynew / to ther hartes deſyrynge</hi>
+                  </l>
+                  <l>
+                     <hi>And Edwarde our prynce, that moſte angelykt thynge</hi>
+                  </l>
+                  <l>
+                     <hi>That they all togyther / maye longe lyue and reſt</hi>
+                  </l>
+                  <l>
+                     <hi>And after with hym raygne, qui in celis eſt. Amen.</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Nat onely with voyce,<note place="margin">Math. 6</note> as dyd the hypocrytes</l>
+               <l>But whan ye ſhall praye, praye from the very hart</l>
+               <l>Expreſſynge the fayth, of chriſten Iſraelytes</l>
+               <l>And trolle with your prynce, no ſyckle flatterynge part</l>
+               <l>Leaſt after thys lyfe,<note place="margin">Pro. 27</note> 
+                  <hi>ye</hi> trolle to eternall ſmart</l>
+               <l>Better is a ſtrype, of hym which is a frynde</l>
+               <l>Than a kyſſe of hym, that beareth a wycked mynde.</l>
+            </lg>
+            <lg>
+               <l>In fayth and in ſpyryt,<note place="margin">Ioha<g ref="char:cmbAbbrStroke">̄</g>. 4.</note> let vs of God requyre</l>
+               <l>Our Kynge, Quene, and Prynce, to lyue here proſperouſlye</l>
+               <l>Not as you do trolle, vnto ther hartes deſyre</l>
+               <l>But vnto goddes mynde,<note place="margin">1. Tim. 2</note> and of hys name the glorye</l>
+               <l>Thus trolleth ſaynt Paule, with Abacuch and Hieremye</l>
+               <l>Lorde graunt them longe lyfe, to thy ſwete <hi>wyll</hi> and pleaſure</l>
+               <l>Thy flocke rewlynge here, which is thy moſt deare treaſure</l>
+            </lg>
+            <p>AMEN.</p>
+            <p>
+               <hi>God ſaue the kynge. And hys ofſprynge, Amen.</hi>
+            </p>
+            <pb facs="tcp:185170:6"/>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>To trolle awaye or trolle in / let not trolle ſpare</hi>
+                  </l>
+                  <l>
+                     <hi>Yf trolle trewlye trolle / trolle nedeth not to care</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>Betwixt hys trolle and trolle, yf trolle no better trolle</l>
+               <l>Trolle maye trolle with trollars, that trolle the goſſyppes bolle</l>
+               <l>Yf trolle wyll trolle with trollars, let trolle trolle veryte</l>
+               <l>Or elstrolle with yll trollars,<note place="margin">Ioha<g ref="char:cmbAbbrStroke">̄</g>. 9.</note> wyll trolle dyſhoneſte</l>
+               <l>Where trolle hath trolled vntrewly, let trolle trolle back agayn</l>
+               <l>For trollinge with yll trollars, trolleth many one to payne</l>
+            </lg>
+            <q>
+               <lg>
+                  <head>
+                     <bibl>Thomas ſmythe.</bibl>
+                  </head>
+                  <l>
+                     <hi>Compoſed by Thomas ſmy the / ſeruaunt to the kynges</hi>
+                  </l>
+                  <l>
+                     <hi>Royall mageſte / And clarke of the Quenes graces, ounſell (though moſt vnworthye.)</hi>
+                  </l>
+               </lg>
+            </q>
+            <lg>
+               <head>An anſwere.</head>
+               <l>The Pharyſe in dede</l>
+               <l>Hys phylacterye ſprede.</l>
+               <l>Hys ſkyrtes he doth dylate</l>
+               <l>To fourny ſhe hys eſtate<note place="margin">Mat. 23.</note>
+               </l>
+               <l>The ſcrybe ſet forth hys hemme</l>
+               <l>With perle and with gemme</l>
+            </lg>
+            <lg>
+               <l>With many tytles proude</l>
+               <l>The pore trouthe to out croude</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e paynteth hym ſelfe with penne</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or to be ſeane of menne<note place="margin">Luc. 11.</note>
+               </l>
+               <l>Here mayſter ſmythe muſt be</l>
+               <l>To the kynges hygh mageſte</l>
+            </lg>
+            <lg>
+               <l>A ſeruaunt ſcant ſo ſymple</l>
+               <l>As reynarde vnder a wymple</l>
+               <l>A clerke,<note place="margin">Hier. 8.</note> a lerned manne</l>
+               <l>Which worldlye cauteles canne</l>
+               <l>Yea, clerke of the Quenes counſell</l>
+               <l>And perſecuteth the Goſpell</l>
+            </lg>
+            <lg>
+               <l>Yet is he moſte vnworthye</l>
+               <l>And that he ſpeketh trewlye<note place="margin">1. Ioh. 4.</note>
+               </l>
+               <l>Thys worke he hath compoſed</l>
+               <pb facs="tcp:185170:7"/>
+               <l>Wherin he hath not gloſed</l>
+               <l>By colours of hypocreſye</l>
+               <l>By falſehede nor by vayne glorye</l>
+            </lg>
+            <lg>
+               <l>Nomore than reynarde foxe</l>
+               <l>Or fryre with hys boxe</l>
+               <l>It is good by ſaint Ione<note place="margin">Mat. 7.</note>
+               </l>
+               <l>That preſtes haue ſoche a wone</l>
+               <l>As canne ſo clerkelye wryte</l>
+               <l>and poetelye indyte</l>
+            </lg>
+            <lg>
+               <l>Whych wyll not from them wauer</l>
+               <l>and is in ſo great fauer</l>
+               <l>Beynge the kynges ſeruaunt</l>
+               <l>So wyttye and ſo pregnaunt</l>
+               <l>He that ſhall with hym ſcole</l>
+               <l>Wyll fynde hym no ſmall fole.<note place="margin">Heſt. 3.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>None heretycke now ſhall rowte</l>
+               <l>Nor dare put forth hys ſnowte</l>
+               <l>But wyll plucke in hys hornes<note place="margin">Actu. 4.</note>
+               </l>
+               <l>as doth new ale in cornes</l>
+               <l>The goſpellarsnow wyll ſhrynke</l>
+               <l>and not be able to wynke</l>
+            </lg>
+            <lg>
+               <l>The knaues ſhall nomore checke</l>
+               <l>Nor agaynſt vs popyſtes becke<note place="margin">Gen. 39</note>
+               </l>
+               <l>With hym they dare not dallye</l>
+               <l>For feare of Putiphars vallye</l>
+               <l>or els for Daniels deane</l>
+               <l>But now ſynge in a meane.<note place="margin">Dani. 6.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Nowe maye we tythes home trolle</l>
+               <l>and care but for the bolle</l>
+               <l>We maye let the goſpell goo</l>
+               <l>For he is our mortall foo</l>
+               <l>We are fortunate thys tyde</l>
+               <l>To haue ſmythe on our ſyde.<note place="margin">Ioan. 7.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Our kyngdome wolde els fall</l>
+            </lg>
+            <pb facs="tcp:185170:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
